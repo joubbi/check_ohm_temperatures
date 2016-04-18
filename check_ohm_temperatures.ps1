@@ -16,7 +16,7 @@ cmd /c echo scripts\custom\check_temperatures.ps1 -warning $ARG1$ -critical $ARG
 or you can omit or hard code the warning and critical arguments in case you do not permit sending arguments to nsclient.
 
 .EXAMPLE
-.\check_temperatures.ps1 -warning 80 -critical 90
+.\check_ohm_temperatures.ps1 -warning 80 -critical 90
 
 .NOTES
 Licensed under the Apache license.
