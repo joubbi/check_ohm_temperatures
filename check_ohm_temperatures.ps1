@@ -27,7 +27,7 @@ Written by farid.joubbi@consign.se
 
 
 .LINK
-http://consign.se/monitoring
+http://consign.se/monitoring/
 http://nsclient.org/
 http://openhardwaremonitor.org/
 
