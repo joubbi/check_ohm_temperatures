@@ -19,7 +19,7 @@ or you can omit or hard code the warning and critical arguments in case you do n
 .\check_ohm_temperatures.ps1 -warning 80 -critical 90
 
 .NOTES
-Licensed under the Apache license.
+Licensed under the Apache license version 2.
 Written by farid.joubbi@consign.se
 
 1.1 2016-03-24 Minor cleanup of variables and documentation.
