@@ -1,0 +1,18 @@
+name: check_ohm_temperatures
+description: "file:///README.md"
+url: "https://gitlab.com/faridj/check_ohm_temperatures.git"
+tags: Temperature
+vendor: Microsoft
+target: Environmental
+type: Plugin
+license: Apache v2
+releases: 
+  - 
+    name: 1.1
+    description: "1.1 Release"
+    files: 
+      - 
+        name: check_ohm_temperatures
+        url: "file:///check_ohm_temperatures.ps1"
+        description: "First public release"
+        checksum: d3b3033201e6b0a445af01e592df6ba3
