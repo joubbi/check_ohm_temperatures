@@ -19,15 +19,15 @@ or you can omit or hard code the warning and critical arguments in case you do n
 .\check_ohm_temperatures.ps1 -warning 80 -critical 90
 
 .NOTES
-Licensed under the Apache license version 2.
-Written by farid.joubbi@consign.se
+Licensed under the Apache License Version 2.0
+Written by farid@joubbi.se
 
 1.1 2016-03-24 Minor cleanup of variables and documentation.
 1.0 2016-03-11 Initial release.
 
 
 .LINK
-http://consign.se/monitoring/
+http://www.joubbi.se/monitoring.html
 http://nsclient.org/
 http://openhardwaremonitor.org/
 

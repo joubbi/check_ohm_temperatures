@@ -15,4 +15,4 @@ releases:
         name: check_ohm_temperatures
         url: "file:///check_ohm_temperatures.ps1"
         description: "First public release"
-        checksum: d3b3033201e6b0a445af01e592df6ba3
+        checksum: 743b4327f37c1a65e6ef83dfce6af6f8
