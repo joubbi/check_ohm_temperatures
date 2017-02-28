@@ -18,11 +18,11 @@ All the found temperatures will be output as performance data so that they can b
 Tested with Windows 7 and Windows 2003.
 
 
-Define the command in __nsclient++__:
+Define the command in __NSClient++__:
 ```
 cmd /c echo scripts\custom\check_temperatures.ps1 -warning $ARG1$ -critical $ARG2$; exit($lastexitcode) | powershell.exe -command -
 ```
-or you can omit or hard code the warning and critical arguments in case you do not permit sending arguments to nsclient.
+You can omit or hard code the warning and critical arguments in case you do not permit sending arguments to nsclient.
 
 
 ### Example
